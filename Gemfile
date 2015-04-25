@@ -25,6 +25,10 @@ gem "title"
 gem "uglifier"
 gem "unicorn"
 
+# admin setup
+gem 'devise'
+gem 'activeadmin'
+
 group :development do
  # gem "spring"
  # gem "spring-commands-rspec"
